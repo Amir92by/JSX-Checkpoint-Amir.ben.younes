@@ -1,0 +1,33 @@
+.App{
+    text-align: center;
+    background-color: dodgerblue;
+}
+
+.title{
+    margin: 0 auto;
+    padding: 10px;
+
+
+    color:goldenrod;
+    font-size: 40px;
+    background-color: navy;
+    border-radius: 2px;
+    box-shadow: -30px 10px 20px rgb(0, 0, 0,0.3);
+
+
+}
+
+img{
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    width: 60%;
+    box-shadow: -30px 10px 20px rgb(0, 0, 0,0.3);
+
+}
+
+video{
+    border: 2px solid gainsboro;
+    border-radius: 10px;
+}
